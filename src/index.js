@@ -59,7 +59,7 @@ console.log('%c HI', 'color: firebrick')
         let breedDropdown = document.getElementById('breed-dropdown');
         
       } 
-      alert ("cuttiecat")
+      
       
     
 
